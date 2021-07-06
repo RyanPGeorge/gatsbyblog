@@ -1,4 +1,4 @@
-##This is my walkthrough of the Gatsby Docs' Walkthrough
+# This is my walkthrough of the Gatsby Docs' Tutorial
 
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
